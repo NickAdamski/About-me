@@ -1,4 +1,5 @@
 #I'm Nikodem Adamski! 🌍🚀
+![coding-anime](https://user-images.githubusercontent.com/95365960/234098380-353b933f-3f3d-40e6-856c-92762e743cd6.gif)
 
 Welcome to my GitHub profile, where code, data, and satire intertwine to form a delightful concoction of technological mastery and dry wit!
 
